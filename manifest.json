@@ -15,5 +15,5 @@
   "options_ui": {
     "page": "options/index.html"
   },
-  "permissions": ["storage"]
+  "permissions": ["storage", "http://localhost/*", "https://discord.com/*"]
 }
